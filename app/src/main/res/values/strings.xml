@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppDeNombre</string>
+    <string name="tv_aviso">"!Hola¡ \n Voy a adivinar tu género. \n Con solo tu nombre:"</string>
+    <string name="button">Button</string>
+    <string name="tv_Result">Eres: %s</string>
 </resources>
